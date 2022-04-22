@@ -5,9 +5,10 @@ Projeto calculadora IMC, utilizando linguagem PHP.
 ___
 
 <h1>
-	<img src=https://user-images.githubusercontent.com/32937294/164559925-e93ae2ef-ec0e-4f53-ba78-a3a3e27ef047.PNG>
+	<img src=https://user-images.githubusercontent.com/32937294/164786947-c7cba459-a875-4cb0-a545-c66e4cdff17f.png>
 </h1>
 ___
+
 ### Tecnologias utilizadas
 
 O projeto foi desenvolvido com as seguintes tecnologias
